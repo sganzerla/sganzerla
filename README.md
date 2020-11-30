@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alisson Michel Sganzerla from Brazil,  former Army military :cop:, 31 years old :man:, 2 children (1 in gestation) :couplekiss:, graduated  in Systems Analysis and Development :mortar_board:2012-2016 by the Federal Institute Farroupilha Campus Alegrete-RS.
+My name is Alisson Michel Sganzerla from Brazil,  former Army military :cop:, 31 years old :man:, 2 children :couplekiss:, graduated in Systems Analysis and Development :mortar_board:2012-2016 by the Federal Institute Farroupilha Campus Alegrete-RS.
 
 I'm a maker culture enthusiast  :construction_worker:: Arduino / NodeMCU.
 
